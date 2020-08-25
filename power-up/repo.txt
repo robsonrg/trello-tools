@@ -1,0 +1,5 @@
+https://github.com/AllenBattles/fit-prototype-trello-powerup
+
+https://github.com/danniehansen/activity-timer
+
+https://github.com/cadesalaberry/trello-tracker-powerup
